@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Hello, CI/CD</h1>
+        <h1>Hello, CI/CD - v2</h1>
         <div>
         {count}
         </div>
