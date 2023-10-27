@@ -7,11 +7,11 @@ function App() {
   return (
     <>
       <div>
-        <h1>Hello, CI/CD</h1>
+        <h1>Hello, CI/CD - v2</h1>
         <div>
         {count}
         </div>
-        <button onClick={() => setCount(count + 1)}>+</button>
+        <button onClick={() => setCout(count + 1)}>+</button>
         </div>
     </>
   )
